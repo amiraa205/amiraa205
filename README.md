@@ -54,22 +54,7 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirahussein&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirahussein&layout=compact&langs_count=8&theme=radical"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amirahussein&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
----
 
 
 ### 🎯 Focus Areas
@@ -100,27 +85,4 @@ const amira = {
 };
 ```
 
----
 
-## 💬 Let's Connect!
-
-<div align="center">
-
-**Always excited to collaborate on innovative projects!**
-
-Whether you're interested in:
-- 🤝 **Collaboration** on backend projects
-- 💡 **Knowledge sharing** about development best practices
-- 🗣️ **Technical discussions** on programming and technology
-- 🌟 **Open source contributions**
-
-<sub>💜 Crafted with code and passion | Always learning, always growing 🚀</sub>
-
-</div>
-
-
-**⭐ "In a world full of code, be the algorithm that makes a difference" ⭐**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=amirahussein.amirahussein)
-
-</div>
